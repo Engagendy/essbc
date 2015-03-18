@@ -1,0 +1,7 @@
+﻿body {
+  direction:rtl; 
+}
+
+.radio label span {
+    margin-right:20px;
+}
